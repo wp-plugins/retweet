@@ -1,11 +1,11 @@
-=== retweet ===
+=== Retweet.com Button ===
 Contributors: Mesiablabs
 Tags: twitter, retweet, button, social, posts, plugin
 Requires at least: 2.5
 Tested up to: 2.8.4
 Stable tag: 1.0.1
 
-The official retweet wordpress plugin from retweet.com.
+The official retweet wordpress plugin from http://retweet.com.
 
 
 == Description ==
