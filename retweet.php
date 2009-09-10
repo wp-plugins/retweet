@@ -240,6 +240,8 @@ if (!function_exists("retweet_button")) {
                 if(is_home() && get_option('retweet_home') == "off") return $content;
                 if(is_single() && get_option('retweet_post') == "off") return $content;
                 if(is_page() && get_option('retweet_page') == "off") return $content;
+                if(!(is_home() || is_single() || is_page()))
+                   return $content;
                 
                 $retweet_location = get_option('retweet_location');
                 $retweet_size = get_option('retweet_size');

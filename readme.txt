@@ -3,7 +3,7 @@ Contributors: Mesiablabs
 Tags: twitter, retweet, button, social, posts, plugin
 Requires at least: 2.5
 Tested up to: 2.8.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 The official retweet wordpress plugin from http://retweet.com.
 
@@ -36,6 +36,7 @@ Retweet is the official wordpress plugin from retweet.com showing number of retw
 4. Fill out the options
 
 == Changelog ==
+* 1.0.2: Hiding widget from unwanted places like category pages, etc.
 
 * 1.0.1: Additional retweet statistics, addthis widget
 
